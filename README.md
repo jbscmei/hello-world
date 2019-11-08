@@ -4,4 +4,3 @@ my first repository
 as
 456
 789
-0
